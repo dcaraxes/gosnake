@@ -1,0 +1,1 @@
+The simplest possible snake for the terminal. Made on charmbracelet/bubbletea.
